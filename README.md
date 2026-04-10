@@ -11,6 +11,7 @@ https://github.com/camenduru/TostUI-z-image-turbo-seedvr2-docker <br />
 https://github.com/camenduru/TostUI-wan2-2-i2v-docker <br />
 https://github.com/camenduru/TostUI-z-image-turbo-4bit-docker <br />
 https://github.com/camenduru/TostUI-s3-media-viewer-standalone <br />
+https://github.com/camenduru/TostUI-webhook-standalone <br />
 
 #### 🍞 Tost Engine
 https://github.com/camenduru/TostEngine-juce-pocket-sampler <br />
