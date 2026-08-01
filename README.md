@@ -25,6 +25,7 @@ https://github.com/camenduru/TostEngine-vulkan-glb-viewer-standalone <br />
 
 #### 📚 Study
 https://github.com/camenduru/klein.c <br />
+https://github.com/camenduru/klein.cu <br />
 
 #### 🧊 Projects from 2022 to 2025
 https://github.com/camenduru/camenduru/blob/main/2022-2025.md <br />
