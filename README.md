@@ -2,6 +2,18 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please become my sponsor https://github.com/sponsors/camenduru <br />
 
+#### 💽 Open Cartridge
+https://github.com/camenduru/OpenCartridge <br />
+
+#### 🦿 VRM
+https://github.com/camenduru/VRMInstantHMR <br />
+https://github.com/camenduru/vrm-motion-capture <br />
+https://github.com/camenduru/GLB2VRM <br />
+https://github.com/camenduru/VRMkimodo <br />
+https://github.com/camenduru/VRMExMR <br />
+https://github.com/camenduru/VRMHairMaker <br />
+https://github.com/camenduru/VRMPet <br />
+
 #### 🍞 Tost UI
 https://github.com/camenduru/TostUI <br />
 https://github.com/camenduru/TostUI-qwen-image-edit-2511-docker <br />
